@@ -26,3 +26,5 @@ There are several types of algorithms, all designed to accomplish different task
 - Sorting algorithm. Sorting algorithms are used to rearrange data structure based on a comparison operator, which is used to decide a new order for data.
 - Hashing algorithm. This algorithm takes data and converts it into a uniform message with a hashing
 - Randomized algorithm. This algorithm reduces running times and time-based complexities. It uses random elements as part of its logic.
+
+~ Engr P
