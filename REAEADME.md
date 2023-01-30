@@ -15,7 +15,7 @@ For example, a search algorithm takes a search query as input and runs it throug
 # What are different types of algorithms?
 There are several types of algorithms, all designed to accomplish different tasks. For example, algorithms perform the following:
 
-types_of_algorithms-f.png
+https://cdn.ttgtmedia.com/rms/onlineimages/types_of_algorithms-f.png
 
 - Search engine algorithm. This algorithm takes search stringsof keywords and operators as input, searches its associated database for relevant webpages and returns results.
 - Encryption algorithm. This computing algorithm transforms data according to specified actions to protect it. A symmetric key algorithm, such as the Data Encryption Standard, for example, uses the same keyto encrypt and decrypt data. As long as the algorithm is sufficiently sophisticated, no one lacking the key can decrypt the data.
