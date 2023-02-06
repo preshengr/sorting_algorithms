@@ -29,4 +29,4 @@ https://cdn.ttgtmedia.com/rms/onlineimages/types_of_algorithms-f.png
 - Hashing algorithm. This algorithm takes data and converts it into a uniform message with a hashing
 - Randomized algorithm. This algorithm reduces running times and time-based complexities. It uses random elements as part of its logic.
 
-~ Engr P
+~ Engr P.
